@@ -19,9 +19,16 @@ height: 5%;
  nav li {
    display: inline;
    padding: 20px;
-
-
  }
+
+  nav a {
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+  }
+     
+
  
 #banner {
     width: 100%;

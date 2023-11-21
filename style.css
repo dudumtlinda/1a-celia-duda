@@ -97,4 +97,17 @@
 
     }
     
-    
+    #item1 {
+       background-image: url(https://images.pexels.com/photos/2521978/pexels-photo-2521978.jpeg);
+       background-size: cover;
+    }
+
+    #item2 {
+        background-image: url(https://images.pexels.com/photos/4663136/pexels-photo-4663136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+     }
+
+     #item3 {
+        background-image: url(https://images.pexels.com/photos/4663133/pexels-photo-4663133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+     }
